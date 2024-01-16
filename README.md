@@ -1,4 +1,4 @@
-# ExploratoryDataAnalysis_PropertyMarket
+#  Data Integration and Transformation: Property Market Analysis
 
 In this Data Analyst Portfolio project, I have scraped the Otodom website data using the Bright Data tool and then load the data into the Snowflake database. 
 
